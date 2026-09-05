@@ -1,3 +1,3 @@
-grade = ["A","C","B",]
+grade = ["A","C","B","D","F"]
 grade.sort()
 print(grade)
