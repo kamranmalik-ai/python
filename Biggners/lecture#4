@@ -1,0 +1,27 @@
+def cal_sum(a,b):
+    sum = a + b
+
+print(sum)
+
+
+a = 5
+b = 10 
+
+sum = (a+b)
+print(sum)
+
+#more lines of code
+
+a = 2
+a = 10
+
+sum = (a+b)
+print(sum)
+
+#more lines of code
+
+a = 12
+a = 17
+
+sum = (a+b)
+print(sum)
