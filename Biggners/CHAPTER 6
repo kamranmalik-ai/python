@@ -1,0 +1,5 @@
+def cul_sum(a,b):
+    sum = a + b
+    return sum
+
+print(cul_sum(5,10))
