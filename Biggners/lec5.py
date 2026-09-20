@@ -6,3 +6,4 @@ while i < 10:
         continue#skip
     print(i)
     i += 1
+    
