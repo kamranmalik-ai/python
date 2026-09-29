@@ -1,9 +1,4 @@
-kie
-
-
-
-
-
-
-
+city = "New York,paris,Tokyo"
+def_length = len(city)
+print("The length of the city string is:", def_length)
 
